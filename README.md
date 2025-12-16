@@ -54,3 +54,5 @@ The project is completely file-based, so no external database is required.
 
 ## Admin Credentials
 
+- Username :- admin
+- Passwd :- 8425
